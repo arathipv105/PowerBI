@@ -7,4 +7,5 @@ The dashboard makes it evident that the majority of the consumer's purchases are
 ## Table of content
 
 First  - Shopping trend
+
 Second - Shopping trend based on location
